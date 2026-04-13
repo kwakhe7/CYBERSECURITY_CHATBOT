@@ -28,3 +28,14 @@ Input validation ensures empty or incorrect inputs are handled properly.
 The chatbot uses keyword matching to understand user input.
 
 It converts input to lowercase and checks for keywords using the Contains function.
+If a keyword like "password" or "phishing" is detected, it returns the correct response.
+
+The system includes the Levenshtein Distance algorithm to detect spelling errors.
+
+If a word is misspelled, the chatbot suggests the closest matching topic.
+
+It remembers previous suggestions using a variable called lastSuggestion.
+
+The chatbot can also handle multiple questions in one input.
+
+It splits the input and responds to each question individually.
