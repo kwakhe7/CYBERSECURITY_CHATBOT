@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WVu4Fw4FKQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwakh\\OneDrive\\Documents\\chatbot\\chatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwakh\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kwakh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\kwakh\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\kwakh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\kwakh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
