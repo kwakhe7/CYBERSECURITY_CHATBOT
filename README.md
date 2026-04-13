@@ -19,3 +19,12 @@ The AudioPlayer plays the greeting sound either synchronously or asynchronously.
 The user interface includes an ASCII logo, colour-coded text, and a typing animation.
 
 These features make the chatbot more engaging and user-friendly.
+The program runs in a continuous loop to allow ongoing conversation.
+
+The user enters a message, and the system checks if they want to exit.
+
+Input validation ensures empty or incorrect inputs are handled properly.
+
+The chatbot uses keyword matching to understand user input.
+
+It converts input to lowercase and checks for keywords using the Contains function.
