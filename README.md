@@ -10,3 +10,12 @@ The main program controls the flow of the application and handles user interacti
 The ChatBot class processes user input and generates responses.
 
 The User class cleans and formats the user’s name for better interaction.
+The GreetingInitializer checks if a greeting audio file exists when the program starts.
+
+If the file does not exist, it generates a WAV file using sound wave properties.
+
+The AudioPlayer plays the greeting sound either synchronously or asynchronously.
+
+The user interface includes an ASCII logo, colour-coded text, and a typing animation.
+
+These features make the chatbot more engaging and user-friendly.
