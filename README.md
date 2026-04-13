@@ -39,3 +39,8 @@ It remembers previous suggestions using a variable called lastSuggestion.
 The chatbot can also handle multiple questions in one input.
 
 It splits the input and responds to each question individually.
+The project demonstrates concepts like string manipulation, input validation, and modular design.
+
+It also includes multimedia integration and basic AI-like behaviour.
+
+SafeNet Assistant is designed to be simple, educational, and easy to expand in the future.
